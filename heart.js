@@ -107,9 +107,7 @@ function loop(){
 			N.y -= (N.y - T.y) * .7;
 
 			render(N);
-
 		}
-
 	}
 }; // eo loop()
 
